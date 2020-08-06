@@ -1,4 +1,4 @@
-name: Replace Block
+name: replaceblock
 main: com.stakoun.nicholas.replaceblock.ReplaceBlock
 version: 1.0.0
 author: Nicholas Stakoun
